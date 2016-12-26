@@ -1,4 +1,4 @@
-Implementation of the basic functionality of Twitter for Software Studio class at MIT, 2016.
+Implementation of the basic functionality of Twitter for 6.170 Software Studio class at MIT, 2016.
 Ege Ozgirin
 
 	This project is designed with: 
@@ -7,6 +7,8 @@ Ege Ozgirin
 	Express as web framework for Node.js + 
 	MongoDB for database +
 	Handlebars as template library.
+
+You can try the app by visiting: http://fritter-egeozin.herokuapp.com
 
 #Fritter
 
