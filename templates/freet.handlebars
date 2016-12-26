@@ -1,0 +1,12 @@
+<div class="freets-list_item" data-id="{{_id}}">
+	<button type="button" class="close">&times;</button>
+	{{#if isRefreet}}
+    	<p class ="refreeter">{{user}} Refreeted</p>
+    	<p class ="username">{{poster}}</p>
+		<p class="freet-text">{{text}}</p>
+	{{else}}
+		<button type="button" class="refreet-button"></button>
+		<p class ="username">{{user}}</p>
+		<p class="freet-text">{{text}}</p>
+    {{/if}}
+</div>
