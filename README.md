@@ -6,7 +6,7 @@ Ege Ozgirin
 	Node.js as Javascript runtime environment + 
 	Express as web framework for Node.js + 
 	MongoDB for database +
-	Handlebars as template library .
+	Handlebars as template library.
 
 #Fritter
 
